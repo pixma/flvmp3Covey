@@ -1,0 +1,9 @@
+c:\users\annim\documents\visual studio 2013\Projects\flvmp3Converter\flvmp3Converter\bin\Debug\flvmp3Converter.exe.config
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\bin\Debug\flvmp3Converter.exe
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\bin\Debug\flvmp3Converter.pdb
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\obj\Debug\flvmp3Converter.csprojResolveAssemblyReference.cache
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\obj\Debug\flvmp3Converter.MainWindow.resources
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\obj\Debug\flvmp3Converter.Properties.Resources.resources
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\obj\Debug\flvmp3Converter.csproj.GenerateResource.Cache
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\obj\Debug\flvmp3Converter.exe
+C:\Users\Annim\Documents\Visual Studio 2013\Projects\flvmp3Converter\flvmp3Converter\obj\Debug\flvmp3Converter.pdb
